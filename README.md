@@ -1,7 +1,5 @@
 ### Welcome
-I'm a student studying computer science. 
-
-I hope my code can help you.
+I'm a student working for my interests.
 
 ### How to contact me
 - email: nyne19710@proton.me
