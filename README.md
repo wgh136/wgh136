@@ -2,5 +2,5 @@
 I'm a student working for my interests.
 
 ### How to contact me
-- email: nyne19710@proton.me
+- email: me@nyne.dev
 - telegram: https://t.me/ny136_bot
